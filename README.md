@@ -1,6 +1,6 @@
-# AspireLoanManagementApp
+# LoanManagementApp
 
-AspireLoanManagementApp is a Spring Boot(Java based) application that allows customers to apply for loans, admins to approve loan applications, and customers to make repayments.
+LoanManagementApp is a Spring Boot(Java based) application that allows customers to apply for loans, admins to approve loan applications, and customers to make repayments.
 
   ## Table of Contents
   - [Prerequisites](#prerequisites)
@@ -26,7 +26,7 @@ AspireLoanManagementApp is a Spring Boot(Java based) application that allows cus
       1. Clone the repository:
       
            ```sh
-           git clone https://github.com/sizvivek/AspireLoanManagementApp.git
+           git clone https://github.com/sizvivek/LoanManagementApp.git
          
       2. Navigate to the project directory
       
